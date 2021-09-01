@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Rizwan Noor (@Rizu20)
+- 👋 Hi, I’m Kazi Rizwan Noor (@Rizu20)
 - 👀 I’m interested in programming, computer networking, IT etc.
 - 🌱 I’m currently learning statistics, some radio stuff and Raspberry
 - 💞️ I’m looking to collaborate on IoT projects, radio or network programming
